@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @till-valhaalla
 - 👀 I’m interested in making flutter and java programs
-- 🌱 I’m currently learning flutter and exploring new techniques
+- 🌱 I’m currently learning Web Development and exploring new techniques
 - 💞️ I’m looking to collaborate on ANYTHING¬
 - 📫 How to reach me https://twitter.com/TValhaalla
 
