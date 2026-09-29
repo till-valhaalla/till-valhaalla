@@ -26,13 +26,6 @@ I build web applications end to end — from React front ends to Python and AWS 
 
 Also: **Bubble.io (certified)**, **SendGrid**
 
-### GitHub stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=till-valhaalla&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=till-valhaalla&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
-</p>
-
 ### Let's connect
 
 📫 Reach me on [X / Twitter](https://twitter.com/TValhaalla) — I'm always happy to talk code or collaborate.
