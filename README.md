@@ -2,6 +2,7 @@
 <p align="center"><b>Senior Software Developer · React · Python · AWS · Bubble.io</b></p>
 
 <p align="center">
+    <a href="https://fatimakhalid.netlify.app"><img src="https://img.shields.io/badge/Portfolio-fatimakhalid.netlify.app-FF5722?style=flat&logo=netlify&logoColor=white" alt="Portfolio"></a>
   <a href="https://twitter.com/TValhaalla"><img src="https://img.shields.io/badge/X-@TValhaalla-000000?style=flat&logo=x&logoColor=white" alt="X / Twitter"></a>
   <img src="https://img.shields.io/badge/Location-Islamabad,_PK-2ea44f?style=flat" alt="Location">
   <img src="https://komarev.com/ghpvc/?username=till-valhaalla&style=flat&color=blue" alt="Profile views">
